@@ -1,0 +1,1 @@
+This repository reflects all the coding I've practised on that particular day. As I do courses across different mediums and don't feel like displaying any of the code, I wanted to have a public repo (to maintain accountability) while not having to worry about maintaining it.
